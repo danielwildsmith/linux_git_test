@@ -1,2 +1,3 @@
 Undefined.
 Brick by brick.
+Testing Git multi-line commit message
